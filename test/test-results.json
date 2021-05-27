@@ -1,0 +1,61 @@
+{
+  "limit": 14,
+  "relevant_keywords": [
+    {
+      "key": "lorem ipsum",
+      "relevant": 0.0015615250051060165
+    },
+    {
+      "key": "ipsum",
+      "relevant": 0.00904668312939199
+    },
+    {
+      "key": "lorem",
+      "relevant": 0.009327141230234178
+    },
+    {
+      "key": "lorem ipsum passages",
+      "relevant": 0.017940356560260565
+    },
+    {
+      "key": "lorem ipsum generators",
+      "relevant": 0.024806138452886876
+    },
+    {
+      "key": "lorem ipsum dolor",
+      "relevant": 0.028805661084184836
+    },
+    {
+      "key": "generate lorem ipsum",
+      "relevant": 0.02952899228457632
+    },
+    {
+      "key": "latin",
+      "relevant": 0.0798208921090924
+    },
+    {
+      "key": "dummy text",
+      "relevant": 0.08529308751256774
+    },
+    {
+      "key": "bonorum et malorum",
+      "relevant": 0.08729899844275413
+    },
+    {
+      "key": "finibus bonorum",
+      "relevant": 0.09020927837364921
+    },
+    {
+      "key": "text",
+      "relevant": 0.09588580348459971
+    },
+    {
+      "key": "ipsum passages",
+      "relevant": 0.09648732151712992
+    },
+    {
+      "key": "industry standard dummy",
+      "relevant": 0.10002635735873149
+    }
+  ]
+}

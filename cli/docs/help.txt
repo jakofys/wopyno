@@ -1,0 +1,7 @@
+
+wopyno <options> | <text>
+
+        -v|--version                    Return name version of cli tool.
+        -f|--filename <path>            Defined a file that import text.
+        -o|--output <path>              Write result in given file (create it if not exists)
+        -h|--help                       Return manual usage
